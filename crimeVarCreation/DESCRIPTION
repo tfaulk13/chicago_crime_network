@@ -1,0 +1,14 @@
+Package: crimeVarCreation
+Title: Column Manipulation for Crime Data
+Version: 0.0.0.9000
+Authors@R: person("Rory", "Pulvino", email = "rory.pulvino@sfgov.org", role = c("aut", "cre"))
+Description: These three functions are used to alter and add crime description columns.
+Depends: R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+        tidyverse,
+        stringr,
+        lazyeval
+RoxygenNote: 6.0.1
